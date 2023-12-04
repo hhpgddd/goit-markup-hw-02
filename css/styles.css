@@ -1,7 +1,7 @@
 body {
     font-family: "Roboto", sans-serif;
     color: #2E2F42;
-    background-color: #2E2F42;
+    background-color: #F4F4FD;
     }
     header {
         background-color: #E7E9FC;
@@ -58,10 +58,17 @@ letter-spacing: 0.16;
     .contacts :focus {
         color: #404BBF;
     }
-main{
-    
+main {
+    background-color: #2E2F42;
 }
-    h1 {
+.hero-page {
+    background-color: #fff;
+}
 
-    }
-    
+.team-section {
+    background-color: #F4F4FD;
+}
+
+.portfolio-section {
+    background-color: #fff;
+}
