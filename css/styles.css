@@ -52,9 +52,9 @@ body {
         color: #404BBF;
     }
 
-    .contacts {
+    .contacts .link {
         line-height: 1.5;
-        letter-spacing: 0.02em; 
+        letter-spacing: 0.02em;
         color: #434455;
     }
 
@@ -67,9 +67,6 @@ body {
         font-style: normal;
     }
 
-    address .link {
-
-    }
     .title-page {
         background-color:#2e2f42;
     }
