@@ -1,7 +1,7 @@
 body {
     font-family: "Roboto", sans-serif;
-    color: #2E2F42;
-    background-color: #F4F4FD;
+    color: #434455;
+    background-color: #FFFFFF;
     }
 
     header {
@@ -22,17 +22,19 @@ body {
     }
 
     .logo-dark {
-        color: inherit;
-        font-family: Raleway;
+        color: #4d5ae5 ;
+        font-family: Raleway, sans-serif;
+        font-weight: 700;
         font-size: 18px;
         line-height: 1.17; 
         letter-spacing: 0.03em;
         text-transform: uppercase;
         text-decoration: none;
+        
             }
 
     span {
-    color:#4D5AE5;
+    color:#2e2f42;
     text-decoration: none;
     }
     
@@ -62,10 +64,23 @@ body {
     .studio-link:active {
         text-decoration: underline;
     }
+    .contacts {
+        line-height: 1.5;
+        letter-spacing: 0.002em;
+        color: #434455;
+    }
 
     .contacts :hover, 
     .contacts :focus {
         color: #404BBF;
+    }
+
+    address {
+        font-style: normal;
+    }
+
+    address .link {
+
     }
 
     .title-text {
@@ -154,7 +169,8 @@ footer {
 
 .logo-light {
     color:#F4F4FD;
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
+    font-weight: 700;
     font-size: 18px;
     line-height: 1.17; 
     letter-spacing: 0.03em;
@@ -163,7 +179,7 @@ footer {
 }
 
 footer p {
-    color:#F4F4FD;
+    color:#4d5ae5 ;
     font-size: 16px;
     line-height: 1.5; 
     letter-spacing: 0.02em;
