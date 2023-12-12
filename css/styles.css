@@ -92,14 +92,6 @@ body {
     .button:focus {
         background-color: #404BBF;
     }
-    
-main {
-    background-color: #2E2F42;
-}
-
-.hero-page {
-    background-color: #fff;
-}
 
  .hero-page h3 {
     color: #2E2F42;
@@ -116,9 +108,6 @@ main {
     letter-spacing: 0.02em;
 }
 
-.team-section {
-    background-color: #F4F4FD;
-}
 
 .team-section h3 {
     font-size: 20px;
@@ -158,9 +147,7 @@ main {
 .team-text {
     font-size: 16px;
 }
-.portfolio-section {
-    background-color: #fff;
-}
+
 
 .portfolio {
     font-size: 36px;
